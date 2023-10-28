@@ -27,9 +27,7 @@ List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Video Title](http://img.youtube.com/vi/o0lQmzBHYbA/0.jpg)](http://www.youtube.com/watch?v=o0lQmzBHYbA)
 
 ## Notes
 
