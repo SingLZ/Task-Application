@@ -2,27 +2,28 @@
 
 Submitted by: Lixing Zheng
 
-**Name of your app** is an app that ... [TODO] 
+Task Organizer is an app that allows users to list out task that that have for anyday and give them due dates. 
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a list of tasks
-- [ ] Users can add tasks to the list
-- [ ] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
-- [ ] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [✓] App displays a list of tasks
+- [✓] Users can add tasks to the list
+- [✓] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+   Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [✓] Tasks can be deleted
+- [✓] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
 
-- [ ] Tasks can be toggled completed
-- [ ] User can edit tasks by tapping on the task in the feed view
-- [ ] List anything else that you can get done to improve the app functionality!
+- [✓] Tasks can be toggled completed
+- [✓] User can edit tasks by tapping on the task in the feed view
+
+List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -32,11 +33,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was difficult in figuring out how to make sure task were updating correctly so there are no duplications.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Lixing Zheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
